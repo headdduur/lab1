@@ -15,3 +15,11 @@ body {
 	font-size: 30pt;
 }
 
+.name {
+	font-family: 'Rancho', cursive;
+	font-size: 42pt;
+}
+
+img {
+	max-width: 700px;
+}
