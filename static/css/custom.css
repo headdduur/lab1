@@ -5,10 +5,5 @@ body {
 .header {
 	font-family: 'Rancho', cursive;
 	font-size: 60pt;
-	padding-bottom: -5px;
 }
 
-h1.header {
-	margin-bottom: -25px;
-	color: #FF6B6B;
-}
